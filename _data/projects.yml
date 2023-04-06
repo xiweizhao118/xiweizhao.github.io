@@ -1,0 +1,18 @@
+-
+  name: 'Maximum Likelihood Estimation in Distributed MIMO wireless communication system'
+  description: >
+    My bachelor's thesis focuses on developing a non-data-aided iteration maximum likelihood solution to estimate channel parameters over fast MIMO channels in OFDM system based on Expectation-Maximization algorithm.
+    The biggest challenge is to minimize the mean square error between the simulation 'real' data and the estimated results based on the multiple interchannel interference.
+    Besides, I also designed a Kalman filter estimator in the state space type of the channel based on auto-regression model.
+    Finally, I made an analysis of the computational complexity and convergence rate of the designed estimator.
+  image: /img/Channel-Estimation-in-MIMO-system.png
+  url: https://drive.google.com/file/d/1vzdR3YNrXM2BaufqKSb_HNjh5QCwWNEE/view?usp=share_link
+-
+  name: The design of a Precisely Positioning Intelligent Delivery UAV
+  description: >
+    Built a delivery quadrotor UAV capable of indoor localization and navigation.
+    Used the Jetson-Nano development board and binocular camera of t265 in hardware.
+    Applied V-SLAM algorithm for localization and DWA algorithm for navigation on ROS in software.
+    Obtained the provincial first prize in the National College Student Innovation and Entrepreneurship Training Program as the team leader.
+  image: /img/UAV.jpg
+  url: https://drive.google.com/file/d/1TiD_u8s7jugEDAI3YdHaE1K6glMc58R2/view?usp=share_link

@@ -1,0 +1,41 @@
+name: Xiwei Zhao 
+
+label: Masc student
+
+picture: /img/profile-photo.jpg
+
+email: xiweix@ualberta.ca
+
+phone: 
+
+department: Computing Science
+
+institution: Alberta University
+
+mailing_address: >
+  116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada
+
+profiles:
+
+  -
+    network: LinkedIn
+    username:
+    url: https://www.linkedin.com/in/%E7%86%99%E8%94%9A-%E8%B5%B5-122180238/
+  -
+    network: Github
+    username:
+    url: https://github.com/xiweizhao118
+  -
+    network: Bilibili
+    username: 
+    url: https://space.bilibili.com/518817739?spm_id_from=333.1007.0.0
+
+intro:
+  title: Hello!
+  body: >
+    I'm currently a master of science student majored in computing science at [Alberta University](https://www.ualberta.ca/index.html).
+    Before 2023 fall, I received my bachelor of engineering (automation) at the 
+    [Harbin Institue of Technology](http://en.hit.edu.cn/).
+    My advisor is [Xiaoqi Tan](https://xiaoqitan.org/). 
+    My research interests are optimization, decision making under uncertainty, operation research.
+    Feel free to check my [CV](https://drive.google.com/file/d/1lkDclP31SMYmE7DTGTTU7cOn6oz7OCsV/view?usp=share_link).

@@ -1,0 +1,33 @@
+# -
+#   title: Mitacs intern
+#   location: [INRS](https://inrs.ca/), Montreal, Canada
+#   date: July 2022
+#   slides_url: https://www.mitacs.ca/en/programs/globalink/globalink-research-internship
+
+# -
+#   title: Exchange student
+#   location: [KTH](https://www.kth.se/), Stockholm, Sweden
+#   date: Jan 2022
+#   slides_url:
+
+# -
+#   title: B.Eng
+#   locaation: [HIT](http://en.hit.edu.cn/), Harbin, China
+#   date: Aug 2019
+#   slides_url:
+
+-
+  title: "Mitacs intern"
+  location: Institut national de la recherche scientifique (INRS), Montreal, Canada
+  date: July 2022 ~ Oct 2022
+  slides_url: https://www.mitacs.ca/en/programs/globalink/globalink-research-internship
+-
+  title: "Exchange student"
+  location: KTH Royal Institute of Technology, Stockholm, Sweden
+  date: Jan 2022 ~ Jun 2022
+  slides_url: https://www.kth.se/
+-
+  title: "B.Eng"
+  location: Harbin Institute of Technology, Harbin, China
+  date: Aug 2019 ~ Jun 2023
+  slides_url: http://en.hit.edu.cn/
